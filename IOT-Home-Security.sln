@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthAPI.DAL", "AuthAPI.DAL\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthAPI.BLL", "AuthAPI.BLL\AuthAPI.BLL.csproj", "{82D3C8E5-D73E-439A-B296-1164433B0505}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthAPI.DTO", "AuthAPI.DTO\AuthAPI.DTO.csproj", "{4DA12B81-1839-4308-A5A9-6695B2834F41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{82D3C8E5-D73E-439A-B296-1164433B0505}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82D3C8E5-D73E-439A-B296-1164433B0505}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82D3C8E5-D73E-439A-B296-1164433B0505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA12B81-1839-4308-A5A9-6695B2834F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA12B81-1839-4308-A5A9-6695B2834F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA12B81-1839-4308-A5A9-6695B2834F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA12B81-1839-4308-A5A9-6695B2834F41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
